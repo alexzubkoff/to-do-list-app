@@ -1,3 +1,5 @@
+import datetime
+
 from django.urls import reverse, reverse_lazy
 from django.views.generic import (
     ListView,
@@ -23,6 +25,7 @@ class ItemListView(ListView):
     def get_context_data(self):
         context = super().get_context_data()
         context["todo_list"] = ToDoList.objects.get(id=self.kwargs["list_id"])
+        context["date_now"] = datetime.datetime.now()
         return context
 
 
