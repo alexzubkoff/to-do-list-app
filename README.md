@@ -1,0 +1,7 @@
+![add-list-item-page](https://user-images.githubusercontent.com/22620680/201666584-4e166290-2666-4a4b-8416-4b8c38283628.png)
+![add-list-title-page](https://user-images.githubusercontent.com/22620680/201666588-cb59c867-6215-424b-ab31-71caa27eb68d.png)
+![create-new-item-page](https://user-images.githubusercontent.com/22620680/201666589-089be786-33d6-4e44-9df3-efddf9f85d13.png)
+![delete-item-confirm-page](https://user-images.githubusercontent.com/22620680/201666593-aa9c83a6-fcdb-4bab-828a-d9e9e72ff795.png)
+![delete-list-confirm-page](https://user-images.githubusercontent.com/22620680/201666596-28d8dade-0688-4c31-a77d-a67a8c062b7c.png)
+![edit-item-page](https://user-images.githubusercontent.com/22620680/201666599-7dba4ada-f29b-4a49-9121-66d97991855a.png)
+![todo-list-page](https://user-images.githubusercontent.com/22620680/201666602-23bf2885-7823-4fc4-911b-73b440ae2fe0.png)
